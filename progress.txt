@@ -1,1 +1,16 @@
-This is my leetcode progress document
+Hello There. This is my LeetCode progress document. This document tracks the questions I solved for "Three Months Challange". 
+
+1. Month: Every question for every topics solved from easy questions.
+	Arrays:
+		Q1: https://leetcode.com/problems/build-array-from-permutation
+		Q2: https://leetcode.com/problems/concatenation-of-array
+		Q3: https://leetcode.com/problems/number-of-good-pairs
+		Q4: https://leetcode.com/problems/number-of-employees-who-met-the-target
+		Q5: https://leetcode.com/problems/two-sum
+	Strings:
+		Q1: https://leetcode.com/problems/defanging-an-ip-address
+		Q2: https://leetcode.com/problems/final-value-of-variable-after-performing-operations
+		Q3: https://leetcode.com/problems/jewels-and-stones
+		Q4: https://leetcode.com/problems/goal-parser-interpretation
+		Q5: https://leetcode.com/problems/maximum-number-of-words-found-in-sentences
+	HashTables:

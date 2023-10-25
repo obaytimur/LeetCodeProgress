@@ -1,1 +1,0 @@
-Hello There. This is my Swift progress document. This document tracks the 100 days of swiftUI website: https://www.hackingwithswift.com/100/swiftui

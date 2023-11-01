@@ -14,3 +14,4 @@ Hello There. This is my LeetCode progress document. This document tracks the que
 		Q4: https://leetcode.com/problems/goal-parser-interpretation
 		Q5: https://leetcode.com/problems/maximum-number-of-words-found-in-sentences
 	HashTables:
+		Q1: https://leetcode.com/problems/design-an-ordered-stream/
